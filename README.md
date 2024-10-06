@@ -6,5 +6,6 @@ Download node js
 
 Commands - 
 npm i 
+
 node birds
 
