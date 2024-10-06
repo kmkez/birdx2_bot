@@ -5,6 +5,7 @@ Paste the query id in data.txt
 Download node js
 
 Commands - 
+
 npm i 
 
 node birds
